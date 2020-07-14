@@ -26,12 +26,6 @@ Training the final model took close to 4 hours with <a href=https://www.tensorfl
 ## Usage:
 -- <i>pending and will be filled</i> --
 
-## Thanks:
-<ul>
-  <li><a href=https://www.linkedin.com/in/andrewyng/>Andrew Ng</a> for the Deep Learning Course.</li>
-  <li><a href=https://stackoverflow.com/>Stackoverflow</a>, <a href=https://datascience.stackexchange.com/>Data Science</a> forums and Internet.</li>
-</ul>
-
 ## References:
 <ol>
   <li>Architecture inspired from <a href=https://arxiv.org/pdf/1507.05717.pdf>this paper</a>.</li>
