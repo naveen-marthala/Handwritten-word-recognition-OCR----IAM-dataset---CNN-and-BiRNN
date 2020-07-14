@@ -13,12 +13,12 @@ link to <a href=http://www.fki.inf.unibe.ch/databases/iam-handwriting-database>I
 
 <table style="width:100%">
   <tr>
-	  <th>Character-Error-Rate</th>
+    <th>Character-Error-Rate</th>
     <td>  %</td>
   </tr>
   <tr>
-  	<th>Word-Error-Rate</th>
-	  <td>  %</td>
+    <th>Word-Error-Rate</th>
+    <td>  %</td>
   </tr>
 </table>
 
