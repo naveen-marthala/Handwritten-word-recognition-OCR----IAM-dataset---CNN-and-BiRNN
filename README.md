@@ -20,7 +20,7 @@ link to <a href=http://www.fki.inf.unibe.ch/databases/iam-handwriting-database>I
 </table>
 
 ## Training:
-Trained on GPU(Tesla P100-PCIE-16GB) on Google Colab.
+Trained on GPU(Tesla P100-16GB) on Google Colab.
 Training the final model took close to 4 hours with <a href=https://www.tensorflow.org/api_docs/python/tf/keras>tensorflow.keras</a>
 
 ## Usage:
