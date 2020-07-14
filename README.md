@@ -1,4 +1,4 @@
-This project is about recognising handwritten words with CNN and Bi-LSTM, decoded with CTC.
+This project is about recognising handwritten words with CNN and Bi-directional LSTM, decoded with CTC.
 
 ## Dataset:
 
@@ -7,10 +7,7 @@ The IAM Handwriting contains:
 
 link to <a href=http://www.fki.inf.unibe.ch/databases/iam-handwriting-database>IAM words dataset</a>. 
 
-
-
-## Result:
-
+## Results:
 <table style="width:100%">
   <tr>
     <th>Character-Error-Rate</th>
@@ -34,7 +31,6 @@ Training the final model took close to 4 hours with <a href=https://www.tensorfl
   <li><a href=https://www.linkedin.com/in/andrewyng/>Andrew Ng</a> for the Deep Learning Course.</li>
   <li><a href=https://stackoverflow.com/>Stackoverflow</a>, <a href=https://datascience.stackexchange.com/>Data Science</a> forums and Internet.</li>
 </ul>
-
 
 ## References:
 <ol>
