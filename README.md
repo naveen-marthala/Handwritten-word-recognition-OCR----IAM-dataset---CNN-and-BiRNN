@@ -1,9 +1,26 @@
 This project is about recognising handwritten words with CNN and Bi-LSTM, decoded with CTC.
 
 ## Dataset:
+
+The IAM Handwriting contains:  
+115'320 isolated and labeled words of 657 writers.
+
 link to <a href=http://www.fki.inf.unibe.ch/databases/iam-handwriting-database>IAM words dataset</a>. 
 
+
+
 ## Result:
+
+<table style="width:100%">
+  <tr>
+	  <th>Character-Error-Rate</th>
+    <td>  %</td>
+  </tr>
+  <tr>
+  	<th>Word-Error-Rate</th>
+	  <td>  %</td>
+  </tr>
+</table>
 
 ## Training:
 Trained on GPU(Tesla P100-PCIE-16GB) on Google Colab.
