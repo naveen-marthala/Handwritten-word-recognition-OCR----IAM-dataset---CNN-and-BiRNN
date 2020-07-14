@@ -3,7 +3,7 @@ This project is about recognising handwritten words with CNN and Bi-LSTM, decode
 ## Dataset:
 
 The IAM Handwriting contains:  
-115'320 isolated and labeled words of 657 writers.
+115,320 isolated and labeled words by 657 writers.
 
 link to <a href=http://www.fki.inf.unibe.ch/databases/iam-handwriting-database>IAM words dataset</a>. 
 
