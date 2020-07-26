@@ -7,7 +7,7 @@ The IAM Handwriting contains:
 You can find the <a href=http://www.fki.inf.unibe.ch/databases/iam-handwriting-database>IAM words dataset</a> here.</br>
 
 ## Results:
-<img src='sample predictions/sample prediction.jpg' alt=results width="500" height="600">
+<img src='sample predictions/sample predictions.jpg' alt=results>
 
 ## Training:
 Trained on GPU on Google Colab with <a href=https://www.tensorflow.org/api_docs/python/tf/keras>tensorflow.keras</a>
