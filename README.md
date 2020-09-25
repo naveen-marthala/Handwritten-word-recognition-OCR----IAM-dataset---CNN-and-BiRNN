@@ -15,6 +15,12 @@ Trained on GPU on Google Colab with <a href=https://www.tensorflow.org/api_docs/
 
 ## References:
 <ol>
-  <li>CTC Loss function from <a href=https://towardsdatascience.com/intuitively-understanding-connectionist-temporal-classification-3797e43a86c>this article</a>.</li>
-  <li>adapted from <a href=https://github.com/githubharald/SimpleHTR>SimpleHTR</a>.
+<li>Pre-processing inspired from: <a href ="https://github.com/keras-team/keras/blob/1a3ee8441933fc007be6b2beb47af67998d50737/examples/image_ocr.py"> OCR example on keras github repo</a>.</li>
+<li>CTC Loss function: <a href=https://towardsdatascience.com/intuitively-understanding-connectionist-temporal-classification-3797e43a86c>this article</a>.</li>
+<li>Network architecture Inspired from:
+  <ul>
+    <li><a href=https://github.com/githubharald/SimpleHTR>SimpleHTR</a>,</li>
+    <li><a href=TheAILearner/A-CRNN-model-for-Text-Recognition-in-Keras>A-CRNN-model-for-Text-Recognition-in-Keras</a>,</li>
+    <li><a href=https://github.com/tuandoan998/HTR-for-IAM>HTR-for-IAM</a></li>
+  </ul>
 </ol>
