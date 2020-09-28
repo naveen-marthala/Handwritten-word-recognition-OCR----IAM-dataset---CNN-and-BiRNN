@@ -9,7 +9,7 @@ You can find the <a href=http://www.fki.inf.unibe.ch/databases/iam-handwriting-d
 ## Results:
 <img src='sample predictions/sample predictions.jpg' alt=results><br>
 Yes, the results are not very promising and out of all words in the holdout set, only about 58.4% have been identified perfectly; These can be fixed using any language model that can fix spelling mistakes.<br>
-My machine consistenly crashed(16GB of RAM filled up completely) whenever I tried to import pre-trained language model(trained on 'Google Billion words' dataset) to fix such spelling mistakes. So, I uploaded the notebooks without spelling correction. Yes, I do have plans to fix this in the future.
+My machine consistenly crashed(~13GB of RAM filled up completely) whenever I tried to import pre-trained language model(trained on 'Google Billion words' dataset) to fix such spelling mistakes. So, I uploaded the notebooks without spelling correction. Yes, I do have plans to fix this in the future.
 <!--
 and rest of the detections have artifacts either at beginning or end of the words. E.g. "It" has been identified as "SIt", with an extra "S" at the beginning. So, obviously this is still far from perfect on holdout set(validation set)  
 -->
