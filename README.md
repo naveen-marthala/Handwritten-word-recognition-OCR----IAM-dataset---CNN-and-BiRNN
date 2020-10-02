@@ -24,7 +24,7 @@ Trained on GPU on Google Colab with <a href=https://www.tensorflow.org/api_docs/
 <li>Network architecture Inspired from:
   <ul>
     <li><a href=https://github.com/githubharald/SimpleHTR>SimpleHTR</a>,</li>
-    <li><a href=TheAILearner/A-CRNN-model-for-Text-Recognition-in-Keras>A-CRNN-model-for-Text-Recognition-in-Keras</a>,</li>
+    <li><a href=https://github.com/TheAILearner/A-CRNN-model-for-Text-Recognition-in-Keras>A-CRNN-model-for-Text-Recognition-in-Keras</a>,</li>
     <li><a href=https://github.com/tuandoan998/HTR-for-IAM>HTR-for-IAM</a></li>
   </ul>
 </ol>
