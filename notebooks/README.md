@@ -6,4 +6,13 @@
 <li></li>
 <li></li>
 -->
+add a very detailed readme file, with links to
+<li>what this is all about?</li>
+<li>description of the data and where to find it?</li>
+<li>how the data was pre-processed and why seperate split (text) files were created?</li>
+<li>decisions behind the architecture and loss function? how and where this was trained? (also include/point to the image of architecture)</li>
+<li>Then finally include a language model to correct spelling mistakes in inferred words?</li>
+<li>how this can be resued? (include functions to pre-process an image for inference and for inference from command line)</li>
+<li>include all that didn't work or wasn't working in a seperate branch. e.g. optimised to different loss function and another RNN type(only include GRU or LSTM in master branch)</li>
+<li>also include the picture of the architecture</li>
 </ol>
