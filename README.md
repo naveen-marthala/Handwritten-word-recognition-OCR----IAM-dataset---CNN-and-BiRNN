@@ -8,21 +8,31 @@ You can find the <a href=http://www.fki.inf.unibe.ch/databases/iam-handwriting-d
 
 ## Results:
 
+<h4>Test image following the predicted text are shown below:</h4>
+
 <ol>
- <li><a href=""><img src="https://raw.githubusercontent.com/naveen-9697/Handwritten-text-recognition-OCR----IAM-dataset---CNN-and-BiRNN/master/some%20images/g07-038-01-02.png"/></a></li>
-<li><a href=""><img src="https://raw.githubusercontent.com/naveen-9697/Handwritten-text-recognition-OCR----IAM-dataset---CNN-and-BiRNN/master/some%20images/b05-098-03-06.png"/></a></li>
-<li><a href=""><img src="https://raw.githubusercontent.com/naveen-9697/Handwritten-text-recognition-OCR----IAM-dataset---CNN-and-BiRNN/master/some%20images/g06-037k-01-02.png"/></a></li>
 
-<li><a href=""><img src="https://raw.githubusercontent.com/naveen-9697/Handwritten-text-recognition-OCR----IAM-dataset---CNN-and-BiRNN/master/some%20images/l04-098-00-06.png"/></a></li>
-<li><a href=""><img src="https://raw.githubusercontent.com/naveen-9697/Handwritten-text-recognition-OCR----IAM-dataset---CNN-and-BiRNN/master/some%20images/a03-030-04-05.png"/></a></li>
-<li><a href=""><img src="https://raw.githubusercontent.com/naveen-9697/Handwritten-text-recognition-OCR----IAM-dataset---CNN-and-BiRNN/master/some%20images/d03-112-01-03.png"/></a></li>
+<div><li><a href=""><img src="https://raw.githubusercontent.com/naveen-9697/Handwritten-text-recognition-OCR----IAM-dataset---CNN-and-BiRNN/master/some%20images/g06-037k-01-02.png"/></a></a><h3>all</h3></div></li>
 
-<li><a href=""><img src="https://raw.githubusercontent.com/naveen-9697/Handwritten-text-recognition-OCR----IAM-dataset---CNN-and-BiRNN/master/some%20images/a01-122-05-06.png"/></a></li>
-<li><a href=""><img src="https://raw.githubusercontent.com/naveen-9697/Handwritten-text-recognition-OCR----IAM-dataset---CNN-and-BiRNN/master/some%20images/e04-004-04-01.png"/></a></li>
-<li><a href=""><img src="https://raw.githubusercontent.com/naveen-9697/Handwritten-text-recognition-OCR----IAM-dataset---CNN-and-BiRNN/master/some%20images/k04-017-08-07.png"/></a></li>
+ <div><li><a href=""><img src="https://raw.githubusercontent.com/naveen-9697/Handwritten-text-recognition-OCR----IAM-dataset---CNN-and-BiRNN/master/some%20images/d03-112-01-03.png"/></a></a><h3>Kings</h3></div></li>
+ 
+  <div><li><a href=""><img src="https://raw.githubusercontent.com/naveen-9697/Handwritten-text-recognition-OCR----IAM-dataset---CNN-and-BiRNN/master/some%20images/g07-038-01-02.png"/></a><h3>SGhigraphies</h3></div></li>
+  
+ <div><li><a href=""><img src="https://raw.githubusercontent.com/naveen-9697/Handwritten-text-recognition-OCR----IAM-dataset---CNN-and-BiRNN/master/some%20images/l04-098-00-06.png"/></a></a><h3>and</h3></div></li>
+
+ <div><li><a href=""><img src="https://raw.githubusercontent.com/naveen-9697/Handwritten-text-recognition-OCR----IAM-dataset---CNN-and-BiRNN/master/some%20images/b05-098-03-06.png"/></a></a><h3>SI</h3></div></li>
+ 
+  <div><li><a href=""><img src="https://raw.githubusercontent.com/naveen-9697/Handwritten-text-recognition-OCR----IAM-dataset---CNN-and-BiRNN/master/some%20images/a01-122-05-06.png"/></a></a><h3>SIt</h3></div></li>
+  
+ <div><li><a href=""><img src="https://raw.githubusercontent.com/naveen-9697/Handwritten-text-recognition-OCR----IAM-dataset---CNN-and-BiRNN/master/some%20images/a03-030-04-05.png"/></a></a><h3>the</h3></div></li>
+ 
+ <div><li><a href=""><img src="https://raw.githubusercontent.com/naveen-9697/Handwritten-text-recognition-OCR----IAM-dataset---CNN-and-BiRNN/master/some%20images/e04-004-04-01.png"/></a></a><h3>show</h3></div></li>
+
+ <div><li><a href=""><img src="https://raw.githubusercontent.com/naveen-9697/Handwritten-text-recognition-OCR----IAM-dataset---CNN-and-BiRNN/master/some%20images/k04-017-08-07.png"/></a></a><h3>Gcertain</h3></div></li>
+
 </ol>
-<br></br>
-<br></br>
+
+
 Yes, the results aren't very promising and only about 58.4% were identified correctly out of all words in the holdout set. And all such mistakes in spellings can be corrected using any language model.<br>
 My colab session had crashed (12.72GB of RAM filling up completely) everytime I tried to import pre-trained language model(I was trying to use 'Google Billion words' dataset) to fix these spelling mistakes. For this reason, I have uploaded the jupyter notebooks without having corrected the spellings. And Yes, I do have plans to fix this in the future using cloud VMs.
 
