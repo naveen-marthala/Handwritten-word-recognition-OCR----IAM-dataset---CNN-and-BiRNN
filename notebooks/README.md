@@ -1,11 +1,9 @@
 <ol>
-<li>why was a custom loss function chosen, instead of something like softmax or log-softmax?</li>
+<li>why was a custom loss function chosen, instead of something like cross entropy averaged over time?</li>
 <li>decision between LSTMs and GRUs. and why only 2 of them were used?</li>
 <li>what was the sequence length for LSTMs; and what was done for sequences that weren't lengthy enough and how the padding was handled.</li>
-<!--
-<li></li>
-<li></li>
--->
+<li>change the network layout to use encoder-to-decoder version of many-to-many RNN, instead of plain many-to-many RNN.</li>
+<li>do not use custome loss layer and complicate things, use the one built in tensorflow 2</li>
 add a very detailed readme file, with links to
 <li>what this is all about?</li>
 <li>description of the data and where to find it?</li>
