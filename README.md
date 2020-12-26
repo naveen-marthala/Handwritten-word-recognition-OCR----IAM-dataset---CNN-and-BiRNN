@@ -14,4 +14,5 @@ add a very detailed readme file, with links to
 <li>include all that didn't work or wasn't working in a seperate branch. e.g. optimised to different loss function and another RNN type(only include GRU or LSTM in master branch)</li>
 <li>also include the picture of the architecture</li>
 <li>include re-usable code and requirements.txt file</li>
+  <li>changed readme.md</li>
 </ol>
